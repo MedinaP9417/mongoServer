@@ -1,0 +1,5 @@
+{
+    "verbose": false,
+    "watch": ["./src"],
+    "exec": "webpack --mode=development && node ./dist/main.js"
+}
