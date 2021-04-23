@@ -1,5 +1,5 @@
 import _ from 'lodash';
-import Courses from '../models/course.model';
+import Course from '../models/course.model';
 
 
 const create = (req, res) => {
